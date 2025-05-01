@@ -1,0 +1,59 @@
+﻿{
+	"Skeleton": {
+		"loc": [ 0 , 0],
+		"velocity": [ 0, 0 ],
+		"stats": {
+			"hp": 20,
+			"atk": 1,
+			"spd": 1,
+			"maxhp": 20,
+			"level": 1
+		},
+		"data": {
+			"img": [ 0, 0, 32, 64 ]
+		}
+	},
+
+	"Ghoul": {
+		"loc": [ 0, 0 ],
+		"velocity": [ 0, 0 ],
+		"stats": {
+			"hp": 20,
+			"atk": 1,
+			"spd": 1,
+			"maxhp": 20,
+			"level": 1
+		},
+		"data": {
+			"img": [ 32, 0, 32, 64 ]
+		}
+	},
+	"Bone Knight": {
+		"loc": [ 0, 0 ],
+		"velocity": [ 0, 0 ],
+		"stats": {
+			"hp": 20,
+			"atk": 1,
+			"spd": 1,
+			"maxhp": 20,
+			"level": 1
+		},
+		"data": {
+			"img": [ 32, 64, 32, 64 ]
+		}
+	},
+
+	"Wraith": {
+
+	},
+	"Banshee": {
+
+	},
+
+	"Undead Knight": {
+
+	},
+	"Grave Sentinel": {
+
+	}
+}
